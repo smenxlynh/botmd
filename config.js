@@ -42,9 +42,9 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = 'stickerby'
-global.author = `Reza Temayang`
-global.wm = 'Reza Temayang'
+global.packname = '•ᴗ•'
+global.author = `.`
+global.wm = 'ʜɪɴᴀᴛᴀʙᴏᴛᴢ•ᴗ•'
 global.watermark = wm
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
 global.instagram = 'https://www.instagram.com/reteam.id/'
